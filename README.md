@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?multiline=true&width=500&lines=I+am+Abhishek,+a+self+learning+programmer.;I+like+tech,and+any+kind+of+programming+related+stuff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?multiline=true&width=500&height=60lines=I+am+Abhishek,+a+self+learning+programmer.;I+like+tech,and+any+kind+of+programming+related+stuff)
 
 
 I am currently studying for my engineering entrance exams, **wish me luck 🤞**.
