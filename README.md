@@ -10,7 +10,7 @@ I am currently studying for my engineering entrance exams, **wish me luck 🤞**
 
 ![Abhishek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10351&theme=blue-green)
 
-#My Skills and Tools
+# My Skills and Tools
 <img src="https://skillicons.dev/icons?i=py,md,cpp,git,github,vscode,docker,powershell,mysql,sqlite,mongodb,postgresql,stackoverflow,svg,figma,heroku,regex">
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek10351&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727)
