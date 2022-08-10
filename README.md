@@ -12,7 +12,7 @@ I am currently studying for my engineering entrance exams, **wish me luck 🤞**
 
 ## My Tech Stack
 
-<p>
+<p align="center" >
 <img style="background-color:#333" src="https://img.icons8.com/color/48/microsoft.png">
 <img style="background-color:#333" src="https://img.icons8.com/color/google-logo.png">
 <img style="background-color:#333" src="https://img.icons8.com/color/windows-11.png">
@@ -24,7 +24,7 @@ I am currently studying for my engineering entrance exams, **wish me luck 🤞**
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,md,cpp,git,github,vscode,docker,powershell,mysql,sqlite,mongodb,postgresql,stackoverflow,heroku,regex&perline=9&theme=dark">
+<img src="https://skillicons.dev/icons?i=py,md,cpp,git,github,vscode,docker,powershell,mysql,sqlite,mongodb,postgresql,stackoverflow,heroku,regex&perline=8&theme=dark">
 </p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek10351&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727)
