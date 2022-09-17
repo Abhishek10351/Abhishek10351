@@ -2,11 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&multiline=true&width=640&height=280&lines=Hey+everyone+%F0%9F%91%8B%2C+I+am+Abhishek+Kashyap+a+developer;+currently+pursuing+B.Tech+(CSE)+in+C.I.T+Kokrajhar.;I+am+always+curious+to+learn+new+things.;I+like+things+that+involve+on+the+central+idea+of;Mathematics+or+Science+(mainly+Computer+Science).;My+main+interest+lies+in+anything+related+to+;Technology%2FProgramming.;I+like+making+Apps%2C+Games%2C+Websites%2C+Bots+etc.;I+mainly+like+to+use+C.S.+in+problem+solving%2C+;Data+Handling+and+many+other+cool+stuff.+++++++++)
 
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Abhishek10351&data=followers,repositories,stars,commits)
+
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek10351&theme=blue-green&count_private=true)
 
 ![Abhishek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10351&theme=blue-green)
-
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Abhishek10351" frameborder="0"></iframe>
 
 ## My Tech Stack
 
