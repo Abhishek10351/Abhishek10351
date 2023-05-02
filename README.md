@@ -6,7 +6,7 @@
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek10351&theme=blue-green&count_private=true)
 
-![Abhishek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10351&theme=blue-green&layout=compact)
+![Abhishek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10351&theme=blue-green&layout=compact&count_private=true)
 
 ## My Tech Stack
 
