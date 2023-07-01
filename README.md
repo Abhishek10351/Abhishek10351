@@ -26,3 +26,11 @@
 </p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek10351&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727)
+
+## Contact Information 📫
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhik5567@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/707107037070360596)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek30125/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abhik266)
+[![Github](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek10351)
