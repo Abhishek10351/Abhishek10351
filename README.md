@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,md,c,cpp,java,git,github,vscode,docker,powershell,mysql,sqlite,mongodb,postgresql,stackoverflow,heroku,regex&perline=8&theme=dark">
+<img src="https://skillicons.dev/icons?i=py,md,c,cpp,java,html,css,js,django,react,next,git,github,vscode,docker,powershell,mysql,sqlite,mongodb,postgresql,stackoverflow,heroku,regex&perline=8&theme=dark">
 </p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek10351&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727)
