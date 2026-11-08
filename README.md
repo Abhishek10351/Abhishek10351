@@ -1,25 +1,44 @@
 # Hi there 👋
 
-![](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&multiline=true&width=640&height=280&lines=Hey+everyone+%F0%9F%91%8B%2C+I+am+Abhishek+Kashyap+a+developer;+currently+pursuing+B.Tech+(CSE)+in+C.I.T+Kokrajhar..;I+like+making+Apps%2C+Games%2C+Websites%2C+Bots+etc.;I+mainly+like+to+use+C.S.+in+problem+solving%2C+;Data+Handling+and+many+other+cool+stuff.+++++++++)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&width=640&height=50&lines=I'm+Abhishek+Kashyap;B.Tech+CSE+%40+C.I.T+Kokrajhar;I+build+Apps%2C+Games%2C+Websites+%26+Bots;Fedora+user+%F0%9F%90%A7+%7C+Problem+solver)
 
-![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Abhishek10351&data=followers,repositories,stars,commits)
+---
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek10351&theme=blue-green&count_private=true)
+## 👨‍💻 About Me
 
-![Abhishek's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek10351&theme=blue-green&layout=compact&count_private=true)
+- 🎓 Completed **B.Tech in Computer Science & Engineering** at C.I.T Kokrajhar
+- 🛠️ I enjoy building **apps, games, websites and bots**
+- 🧩 I mainly use CS for **problem solving** and **data handling**
+- 🐧 Daily driver: **Fedora Linux**
 
-## My Tech Stack
+---
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,md,c,cpp,java,html,css,js,django,react,express,next,git,github,docker,powershell,bash,mysql,sqlite,mongodb,postgresql,regex&perline=8&theme=dark">
-</p>
+## 🧰 Tech Stack
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abhishek10351&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727)
+![Languages](https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,django,react,express,nextjs&perline=11&theme=dark)
 
-## Contact Information 📫
+![Tools](https://skillicons.dev/icons?i=fedora,bash,powershell,git,github,docker,mysql,sqlite,mongodb,postgres,regex&perline=11&theme=dark)
+
+---
+
+## 📊 GitHub Stats
+
+![Streak](https://streak-stats.demolab.com?user=Abhishek10351&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhishek10351&theme=tokyonight)
+
+![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishek10351&theme=tokyonight)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishek10351&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhishek10351&theme=tokyonight)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abhishek10351&theme=tokyonight&utcOffset=5.5)
+
+---
+
+
+
+## 📫 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhik5567@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/707107037070360596)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek30125/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Abhik266)
-[![Github](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek10351)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek10351)
